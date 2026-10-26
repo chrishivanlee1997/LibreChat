@@ -6,3 +6,11 @@ services:
     envVars:
       - key: MONGO_URI
         value: mongodb+srv://chrishivanlee_db_user:iWLMF9oTF08eUDjY@ivanleecluster.xxxx.mongodb.net/?retryWrites=true&w=majority
+      - key: CREDS_KEY
+        value: f32961d62c1694eb181ef8c2c9d691bc2e8964e580f4f9f7439c2c62c2f427c3
+      - key: CREDS_IV
+        value: b6f41b9d4e5f928c11e473bf79a95e72
+      - key: JWT_SECRET
+        value: 39a48f4b1d62b9f82d1645e7f912c82f9d8c4e512c82f9d8c4e512c82f9d8c4e
+      - key: JWT_REFRESH_SECRET
+        value: c82f9d8c4e512c82f9d8c4e512c82f9d8c4e512c82f9d8c4e512c82f9d8c4e51
