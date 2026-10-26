@@ -14,3 +14,4 @@ services:
         value: 39a48f4b1d62b9f82d1645e7f912c82f9d8c4e512c82f9d8c4e512c82f9d8c4e
       - key: JWT_REFRESH_SECRET
         value: c82f9d8c4e512c82f9d8c4e512c82f9d8c4e512c82f9d8c4e512c82f9d8c4e51
+        
